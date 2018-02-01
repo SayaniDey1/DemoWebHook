@@ -1,0 +1,6 @@
+projectKey=Demo_Phyton
+serverUrl=https://proactionus.ent.cgi.com/sonar
+serverVersion=6.7.1.35068
+dashboardUrl=https://proactionus.ent.cgi.com/sonar/dashboard/index/Demo_Phyton
+ceTaskId=AWFK1oT3ggn1JQmU3cku
+ceTaskUrl=https://proactionus.ent.cgi.com/sonar/api/ce/task?id=AWFK1oT3ggn1JQmU3cku
